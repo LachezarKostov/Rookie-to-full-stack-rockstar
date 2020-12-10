@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88e8a6bd-e587-4353-a5c1-676831ea8a7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l8x8zdcMCbLj7GPE6Iyz2BxKqH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dream\Desktop\Python\Rookie to Full-Stack Rockstar\brick_work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.brickwork">
+    <configuration name="brickwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="brick_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brickwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="brick_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for brickwork_test.TestBrickWork" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="brick_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;brickwork_test.TestBrickWork&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for brickwork_test.TestBrickWork.test_input_error_when_not_int" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="brick_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;brickwork_test.TestBrickWork.test_input_error_when_not_int&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in brickwork_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="brick_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/brickwork_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.brickwork" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in brickwork_test.py" />
+        <item itemvalue="Python tests.Unittests for brickwork_test.TestBrickWork.test_input_error_when_not_int" />
+        <item itemvalue="Python tests.Unittests for brickwork_test.TestBrickWork" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88e8a6bd-e587-4353-a5c1-676831ea8a7b" name="Default Changelist" comment="" />
+      <created>1606992363953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606992363953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1607511877840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607511877840" />
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom" timestamp="1607603987044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987044" />
+    <state width="1899" height="300" key="GridCell.Tab.0.center" timestamp="1607603987044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987044" />
+    <state width="1899" height="300" key="GridCell.Tab.0.left" timestamp="1607603987044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987044" />
+    <state width="1899" height="300" key="GridCell.Tab.0.right" timestamp="1607603987044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.0.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987044" />
+    <state width="1899" height="300" key="GridCell.Tab.1.bottom" timestamp="1607603987045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.1.bottom/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987045" />
+    <state width="1899" height="300" key="GridCell.Tab.1.center" timestamp="1607603987045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.1.center/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987045" />
+    <state width="1899" height="300" key="GridCell.Tab.1.left" timestamp="1607603987045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.1.left/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987045" />
+    <state width="1899" height="300" key="GridCell.Tab.1.right" timestamp="1607603987045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="300" key="GridCell.Tab.1.right/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607603987045" />
+    <state x="2387" y="546" key="com.intellij.ide.util.TipDialog" timestamp="1607423570100">
+      <screen x="1920" y="304" width="1366" height="728" />
+    </state>
+    <state x="2387" y="546" key="com.intellij.ide.util.TipDialog/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1607423570100" />
+  </component>
+</project>
